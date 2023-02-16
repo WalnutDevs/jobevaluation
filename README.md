@@ -1,2 +1,6 @@
-# Herramienta para la valoración de puestos de trabajo
-![image](https://user-images.githubusercontent.com/2738365/219499345-cbbefde7-e452-40b2-aaf2-d44d659bb4e2.png)
+# Valoración de puestos de trabajo
+
+Una herramienta sencilla y completa, creada por los mejores profesionales de [BK Valora ETL Global](https://www.bketl.es/). Descubre nuestra herramienta desde [aquí](https://jobevaluation-production.up.railway.app/).
+
+### Te escuchamos
+Si quieres reportar un problema, solicitar nuevas funcionalidades o dejarnos tu opinión puedes hacerlo desde [aquí](https://github.com/WalnutDevs/jobevaluation/issues/new/choose).
